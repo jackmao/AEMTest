@@ -1,7 +1,7 @@
 package com.pwc.tomashu.aemtest;
 
 /**
- * A simple service interfacesbbbbsss
+ * A simple service interface
  */
 public interface HelloService {
     
