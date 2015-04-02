@@ -1,0 +1,4 @@
+com\pwc\tomashu\aemtest\HelloService.class
+com\pwc\tomashu\aemtest\impl\HelloServiceImpl.class
+com\pwc\tomashu\aemtest\impl\filters\LoggingFilter.class
+com\pwc\tomashu\aemtest\package-info.class
